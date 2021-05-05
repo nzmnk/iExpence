@@ -68,7 +68,7 @@ struct ContentView: View {
                 }
                 .onDelete(perform: removeItems)
             }
-            .navigationBarTitle("iExpense")
+            .navigationBarTitle("iExpence")
             
             .toolbar {
                 ToolbarItemGroup(placement: .navigationBarTrailing) {
